@@ -46,9 +46,9 @@ function HeaderText() {
 			</h1>
 			<div className="flex flex-col gap-2">
 				<h2 className="text-2xl font-bold tracking-tight md:text-[2rem]">
-					"Implementing a new{" "}
+					Implementing a new{" "}
 					<span className="text-[hsl(234,55%,70%)]">useMediaQuery</span> with{" "}
-					<span className="text-[hsl(234,55%,70%)]">useSyncExternalStore</span>"
+					<span className="text-[hsl(234,55%,70%)]">useSyncExternalStore</span>
 				</h2>
 				<h4 className="text-md font-bold tracking-tight">
 					(More explaination in the code)
